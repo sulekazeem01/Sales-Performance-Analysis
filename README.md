@@ -32,11 +32,11 @@ The workbook includes transaction-level sales data and supporting worksheets for
 
 | KPI | Value |
 |---|---:|
-| Total Sales | $220,177 |
-| Total Profit | $5,605 |
+| Total Sales | $909,607 |
+| Total Profit | $23,718 |
 | Profit Margin | 3% |
-| Total Orders | 220 |
-| Average Order Value | $1,001 |
+| Total Orders | 900 |
+| Average Order Value | $1,011 |
 
 *Values represent the unfiltered dashboard view and are rounded as displayed.*
 
@@ -55,11 +55,13 @@ The interactive dashboard includes:
 
 ## Key Findings
 
-- The Central region generated approximately $61K in sales, the highest among the four regions.
-- The East region generated approximately $57K in sales.
-- The South and West regions generated approximately $53K and $49K, respectively.
-- The overall profit margin was approximately 3%, indicating an opportunity to investigate costs, pricing, and product profitability.
-- The dashboard enables users to compare performance across regions and products.
+- ## Key Findings
+
+- Total sales reached approximately $909,607 across 900 orders.
+- The business generated $23,718 in profit, representing a profit margin of approximately 3%.
+- The Central region recorded the highest sales at approximately $253K, followed by West ($236K), East ($213K), and South ($207K).
+- Regional sales performance varied, suggesting opportunities to investigate differences in customer demand and product performance.
+- Monthly sales fluctuated throughout the reporting period, highlighting the importance of monitoring sales trends.
 
 ## Business Recommendations
 
