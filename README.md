@@ -41,6 +41,9 @@ The workbook includes transaction-level sales data and supporting worksheets for
 *Values represent the unfiltered dashboard view and are rounded as displayed.*
 
 ## Dashboard Features
+## Dashboard Preview
+
+![Sales Performance Dashboard](Sales_Performance_Dashboard.png)
 
 The interactive dashboard includes:
 
