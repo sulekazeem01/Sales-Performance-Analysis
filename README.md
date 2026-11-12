@@ -43,7 +43,7 @@ The workbook includes transaction-level sales data and supporting worksheets for
 ## Dashboard Features
 ## Dashboard Preview
 
-![Sales Performance Dashboard](Sales_Performance_Dashboard.png)
+![Sales Performance Dashboard](Sales_Performance_Dashboard_Updated.png)
 
 The interactive dashboard includes:
 
